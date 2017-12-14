@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string name="str_vertical_recycler_view">Vertical Recycler View</string>
+    <string name="str_horizontal_recycler_view">Horizontal Recycler View</string>
+    <string name="str_list_grid_recycler_view">List/Grid Recycler View</string>
+    <string name="str_nested_recycler_view">Nested Recycler View</string>
+
+    <string name="action_list">ListView</string>
+    <string name="action_grid">GridView</string>
+
+</resources>
