@@ -39,6 +39,9 @@ public class MainActivity extends BaseActivity {
                 case R.id.btn_horizontal_recycler_view:
                     startActivity(HorizontalRecyclerView.class);
                     break;
+                case R.id.btn_list_grid_recycler_view:
+                    startActivity(ListGridRecyclerView.class);
+                    break;
             }
         }
     };
